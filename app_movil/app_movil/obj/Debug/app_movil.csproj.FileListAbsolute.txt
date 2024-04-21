@@ -1,0 +1,13 @@
+C:\Users\Pc\source\repos\app_movil\bin\Debug\app_movil.exe.config
+C:\Users\Pc\source\repos\app_movil\bin\Debug\app_movil.exe
+C:\Users\Pc\source\repos\app_movil\bin\Debug\app_movil.pdb
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.Form1.resources
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.Properties.Resources.resources
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.exe
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.pdb
+C:\Users\Pc\source\repos\app_movil\bin\Debug\Guna.UI2.dll
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.csproj.Up2Date
+C:\Users\Pc\source\repos\app_movil\obj\Debug\app_movil.Form2.resources
